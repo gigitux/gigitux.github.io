@@ -1,7 +1,7 @@
 remote_theme: gigitux/jekyll-klise
 title: Gigitux's blog
 description: >-
-  Appunti e pensieri di uno sviluppatore
+  Notes and thoughts of a developer
 lang: it-IT
 timezone: Europe/Rome
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
@@ -10,7 +10,7 @@ mode: dark
 # Profile settings
 author:
   name: Luigi Teschio
-  bio: Appunti e pensieri di uno sviluppatore
+  bio: Notes and thoughts of a developer
   username: gigitux # general username
   github: gigitux # github username
   twitter: gigitux # twitter username
