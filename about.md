@@ -11,4 +11,4 @@ You can reach me on:
 * [Twitter](https://twitter.com/gigitux)
 * [Linkedin](https://linkedin.com/gigitux)
 * [Github](https://github.com/gigitux)
-
+* [Email](mailto:gigitux@gmail.com)
