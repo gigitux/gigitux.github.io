@@ -1,7 +1,6 @@
-I'm Luigi, born in 1997, software engineer based in Naples 🇮🇹 🌊 with 5+ years of experience specialized in Web development. I'm currently working at Intellipse.
+I'm Luigi, a 24 years old software engineer based in Naples 🇮🇹 🌊 with 5+ years of experience specialized in Web development. I'm currently working at Intellipse.
 
-I love Open Source and participate to community events and I also speak at conference like Linux Day and Merge-It. 
-
+I love Open Source and community events where I have participated as an attendee as well as a speaker (Linux Day, Merge-it)
 
 I'm a self-taught and I strongly believe in the spirit of knowledge sharing, so I decided to start free [mentoring](https://calendly.com/gigitux/45min?month=2021-03)
 
@@ -9,7 +8,7 @@ I'm a self-taught and I strongly believe in the spirit of knowledge sharing, so 
 
 
 You can reach me on:
-* [Twitter](twitter.com/gigitux)
-* [Linkedin](linkedin.com/gigitux)
-* [Github](github.com/gigitux)
+* [Twitter](https://twitter.com/gigitux)
+* [Linkedin](https://linkedin.com/gigitux)
+* [Github](https://github.com/gigitux)
 
