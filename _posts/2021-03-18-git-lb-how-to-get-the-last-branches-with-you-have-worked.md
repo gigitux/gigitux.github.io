@@ -2,7 +2,6 @@
 layout: post
 title: "Git lb: how to get the last branches you have worked with"
 date: 2021-03-18T18:18:56.555Z
-category: Category
 ---
 
 For work reasons, I have changed my laptop. In copy all my configurations want share with you this git alias for get the recent branches.
