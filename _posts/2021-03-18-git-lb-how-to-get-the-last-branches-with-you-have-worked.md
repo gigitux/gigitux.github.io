@@ -4,8 +4,8 @@ title: "Git lb: how to get the last branches you have worked with"
 date: 2021-03-18T18:18:56.555Z
 ---
 
-For work reasons, I have changed my laptop. In copy all my configurations want share with you this git alias for get the recent branches.
-This name of this alias is `git lb` (last branch) and this is the output:
+For work reasons, I have changed my laptop. I want share with you this git alias for get the recent branches.
+The name of this alias is `git lb` (last branch) and this is the output:
 
 ```
   31 minutes ago: fun-branch
